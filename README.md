@@ -1,18 +1,19 @@
-# urun-islemleri
+#  VUE JS. ÜRÜN İŞLEMLERİ UYGULAMASI
 
-> A Vue.js project
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+- Ürününün adedini, fiyatını ve açıklamasını girerek stok takibi yapabilirsin.
+- Eklenen ürünleri satıp kasa kasadaki para miktarını görebilirsiniz.
+- Veriler LocalStorige'e kaydedilmektedir.
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+  
+## Kullanılan Teknolojiler
+
+* Html - Css
+* Javascript
+* Vue Js.(Vue-Router, Vuex)
+* Firebase
+
